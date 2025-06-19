@@ -30,6 +30,16 @@ Backend & Cloud Specialist • Passionate about elegant architecture & clean cod
 
 - **Lifelong Learner:**  
   Always exploring the next frontier—whether it’s GenAI, observability tools, or new frameworks.
+  
+---
+
+## 📊 GitHub Stats
+
+<!-- ![Chinonso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChinonsoIke&show_icons=true&theme=radical&count_private=true&hide=issues) -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinonsoIke&layout=compact&theme=radical)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ChinonsoIke&theme=radical&date_format=M%20j%5B%2C%20Y%5D) -->
 
 ---
 
