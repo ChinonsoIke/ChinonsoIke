@@ -8,12 +8,12 @@ Backend & Cloud Specialist • Passionate about elegant architecture & clean cod
 
 ## 🔧 Expertise & Tech Stack
 
-- **Languages & Frameworks:** C#/.NET Core, ASP.NET, JavaScript/TypeScript
-- **Cloud & Infrastructure:** Azure, AWS, Docker, RabbitMQ, Redis, Hangfire  
-- **Architecture:** Microservices, Event‑Driven Systems, Domain‑Driven Design  
-- **Front‑End:** React, HTML, CSS, Bootstrap, Tailwind CSS  
-- **Data & Storage:** MS SQL Server, PostgreSQL, MySQL, Entity Framework, Dapper  
-- **DevOps & Tooling:** Git, GitHub, Azure DevOps, CI/CD, xUnit, Postman, Swagger
+- **Languages:** C#, JavaScript/TypeScript, SQL
+- **Backend:** ASP.NET, Node.js/Express, REST APIs
+- **Frontend:** React, Redux, Angular, Material-UI, Bootstrap, Tailwind, HTML, CSS
+- **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
+- **Tools:** Docker, Redis, RabbitMQ, Git, GitHub, Azure, AWS
+- **Practices:** Agile/Scrum, Microservices, Unit Testing, CI/CD, Distributed Systems
 
 ---
 
