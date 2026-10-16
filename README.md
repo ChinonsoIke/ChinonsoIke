@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Chinonso Ikewelugo
 
-**Senior .NET Engineer** | Crafting Scalable, Cloud‑Native Solutions
+**Senior Full-Stack Software Engineer** | Crafting Scalable, Cloud‑Native Solutions
 
 Backend & Cloud Specialist • Passionate about elegant architecture & clean code
 
@@ -8,8 +8,8 @@ Backend & Cloud Specialist • Passionate about elegant architecture & clean cod
 
 ## 🔧 Expertise & Tech Stack
 
-- **Languages:** C#, JavaScript/TypeScript, SQL
-- **Backend:** ASP.NET, Node.js/Express, REST APIs
+- **Languages:** C#, JavaScript/TypeScript, Java, SQL
+- **Backend:** ASP.NET, Node.js/Express, Spring Boot, REST APIs
 - **Frontend:** React, Redux, Angular, Material-UI, Bootstrap, Tailwind, HTML, CSS
 - **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
 - **Tools:** Docker, Redis, RabbitMQ, Git, GitHub, Azure, AWS
